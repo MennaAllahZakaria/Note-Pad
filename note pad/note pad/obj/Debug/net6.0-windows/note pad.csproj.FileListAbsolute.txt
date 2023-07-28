@@ -1,0 +1,18 @@
+D:\backend_projects\first\note pad\note pad\bin\Debug\net6.0-windows\note pad.exe
+D:\backend_projects\first\note pad\note pad\bin\Debug\net6.0-windows\note pad.deps.json
+D:\backend_projects\first\note pad\note pad\bin\Debug\net6.0-windows\note pad.runtimeconfig.json
+D:\backend_projects\first\note pad\note pad\bin\Debug\net6.0-windows\note pad.dll
+D:\backend_projects\first\note pad\note pad\bin\Debug\net6.0-windows\note pad.pdb
+D:\backend_projects\first\note pad\note pad\obj\Debug\net6.0-windows\note pad.csproj.AssemblyReference.cache
+D:\backend_projects\first\note pad\note pad\obj\Debug\net6.0-windows\note_pad.Form1.resources
+D:\backend_projects\first\note pad\note pad\obj\Debug\net6.0-windows\note pad.csproj.GenerateResource.cache
+D:\backend_projects\first\note pad\note pad\obj\Debug\net6.0-windows\note pad.GeneratedMSBuildEditorConfig.editorconfig
+D:\backend_projects\first\note pad\note pad\obj\Debug\net6.0-windows\note pad.AssemblyInfoInputs.cache
+D:\backend_projects\first\note pad\note pad\obj\Debug\net6.0-windows\note pad.AssemblyInfo.cs
+D:\backend_projects\first\note pad\note pad\obj\Debug\net6.0-windows\note pad.csproj.CoreCompileInputs.cache
+D:\backend_projects\first\note pad\note pad\obj\Debug\net6.0-windows\note pad.dll
+D:\backend_projects\first\note pad\note pad\obj\Debug\net6.0-windows\refint\note pad.dll
+D:\backend_projects\first\note pad\note pad\obj\Debug\net6.0-windows\note pad.pdb
+D:\backend_projects\first\note pad\note pad\obj\Debug\net6.0-windows\note pad.genruntimeconfig.cache
+D:\backend_projects\first\note pad\note pad\obj\Debug\net6.0-windows\ref\note pad.dll
+D:\backend_projects\first\note pad\note pad\obj\Debug\net6.0-windows\note_pad.Properties.Resources.resources
